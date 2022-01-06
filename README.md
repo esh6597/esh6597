@@ -7,11 +7,12 @@ Interested in my non-coding stuff? Check out my [Behance portfolio](https://www.
 #### Currently working on:
 - Polishing up Paper Drip 1.0--stay tuned for a new presentation coming February!
 - Paper Drip 2.0: complete JavaScript update to ES6 and back end via Express
+- Deepening my understanding of JavaScript
 - Tutorials for how I make my paper sculptures
 
 #### Contact Me
-Email: erinshdev@gmail.com
-[LinkedIn](https://www.linkedin.com/in/esh97/)
+- Email: erinshdev@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/esh97/)
 
 <!--
 **esh6597/esh6597** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
