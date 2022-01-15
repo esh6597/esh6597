@@ -5,9 +5,8 @@ My name's Erin (he/they), and I'm a weird chimera of gamer turned artist turned 
 Interested in my non-coding stuff? Check out my [Behance portfolio](https://www.behance.net/sherrilh659709ca)!
 
 #### Currently working on:
-- Polishing up Paper Drip 1.0--stay tuned for a new presentation coming February!
-- Paper Drip 2.0: complete JavaScript update to ES6 and back end via Express
-- Deepening my understanding of JavaScript
+- Polishing up Paper Drip: updating JavaScript and polishing features
+- Client websites via Bootstrap and Node.js for back end
 - Tutorials for how I make my paper sculptures
 
 #### Contact Me
