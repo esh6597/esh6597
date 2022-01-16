@@ -2,7 +2,7 @@
 
 My name's Erin (he/they), a simple Bootstrap programmer working with React and Node for dynamic, responsive webpages. I'm just testing out the waters, showing the world what I make through code, and having fun finally putting all of my skills to use making cute websites. If you're hiring, I'm open to web development jobs and other opportunities for growth!
 
-Interested in my non-coding stuff? Check out my [Behance portfolio](https://www.behance.net/sherrilh659709ca)!
+Interested in my non-coding stuff? Check out my [Behance portfolio](https://be.net/esh6597)!
 
 #### Currently working on:
 - Polishing up Paper Drip: updating JavaScript and polishing features
