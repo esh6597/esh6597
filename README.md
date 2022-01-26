@@ -5,10 +5,19 @@ My name's Erin (he/they), a simple Bootstrap programmer working with React and N
 Interested in my non-coding stuff? Check out my [Behance portfolio](https://be.net/esh6597)!
 
 #### Currently working on:
-- Polishing up Paper Drip: updating JavaScript and polishing features
+
 - Client websites via Bootstrap and Node.js for back end
+- Practicing back end JavaScript with Paper Drip
+- Learning TypeScript
 - Tutorials for how I make my paper sculptures
-- Deepening my understanding of Express and MongoDB
+
+#### Projects
+
+##### Paper Drip + JSON Server
+Front end React app about origami built with Sass, Bootstrap and Redux state management. JSON server is a Github deployment of JSON dev server for quick RESTful API testing and presentation as there is no back end for this project.
+
+##### (Coming Soon) Tristan Carmichael Website
+A quick workflow demonstration using Bootstrap, Sass and Express to serve a static website with form mailing and custom animations.
 
 #### Contact Me
 - Email: erinshdev@gmail.com
