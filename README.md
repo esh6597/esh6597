@@ -16,8 +16,8 @@ Interested in my non-coding stuff? Check out my [Behance portfolio](https://be.n
 ##### Paper Drip + JSON Server
 Front end React app about origami built with Sass, Bootstrap and Redux state management. JSON server is a Github deployment of JSON dev server for quick RESTful API testing and presentation as there is no back end for this project.
 
-##### (Coming Soon) Tristan Carmichael Website
-A quick workflow demonstration using Bootstrap, Sass and Express to serve a static website with form mailing and custom animations.
+##### Tristan Carmichael Website
+A quick workflow demonstration using Bootstrap, Sass and Express to serve a static website with form mailing and custom animations. Special thanks to Tristan for allowing me to show off his code!
 
 #### Contact Me
 - Email: erinshdev@gmail.com
