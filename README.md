@@ -19,10 +19,8 @@ Interested in my non-coding stuff? Check out my [Behance portfolio](https://be.n
 
 #### Currently working on:
 
-- Client websites via Bootstrap and Node.js for back end
-- Practicing back end JavaScript with Paper Drip
+- Client websites via React, Bootstrap and Node.js for back end
 - Learning TypeScript
-- Tutorials for how I make my paper sculptures
 
 #### Projects
 
