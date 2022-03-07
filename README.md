@@ -1,6 +1,6 @@
 ## Howdy!
 
-My name's Erin (he/they), a simple Bootstrap programmer working with React and Node for dynamic, responsive webpages. I'm just testing out the waters, showing the world what I make through code, and having fun finally putting all of my skills to use making cute websites. If you're hiring, I'm open to front end web development jobs and other opportunities for growth!
+My name's Erin (he/they), a simple JavaScript programmer working with React and Node for dynamic, responsive webpages. I'm just testing out the waters, showing the world what I make through code, and having fun finally putting all of my skills to use making cute websites. If you're hiring, I'm open to front end web development jobs and other opportunities for growth!
 
 #### What I work with:
 - Node, Yarn, Webpack and Babel for package management and code transcompilation
