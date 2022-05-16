@@ -7,9 +7,8 @@ My name's Erin (he/they), a simple JavaScript programmer working with React and 
 - Adobe XD for prototyping and experience flowcharts
 - Vanilla JavaScript (ES6 and legacy) for smaller sites for performance
 - Bootstrap and jQuery for quick, uniform UI
-- SMTP email services, email APIs, HTML-formatted emails via SendinBlue, a great free service for smaller businesses
-- React for organized components on larger apps
-- RESTful APIs via Redux (currently learning toolkit)
+- React and Angular for organized components on larger apps
+- RESTful APIs via Redux
 - Thunk and Logger for async requests
 - Express, MongoDB and Mongoose for databases and back end APIs
 - AWS and Heroku for deployment
@@ -20,7 +19,7 @@ Interested in my non-coding stuff? Check out my [Behance portfolio](https://be.n
 #### Currently working on:
 
 - Client websites via React, Bootstrap and Node.js for back end
-- Learning TypeScript
+- Learning Angular, SQL, TypeScript and more
 
 #### Projects
 
